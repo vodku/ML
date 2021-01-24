@@ -1,4 +1,4 @@
-classification
+
 monitoring
 regression
 clustering/ansur
@@ -8,3 +8,8 @@ clustering/fish/
 clustering/recommanderSystem/NMF/input
 clustering/venv
 clustering/wikipedia_articles
+classification/venv
+classification/cat-vs-dogs
+classification/chronic_kidney_disease
+classification/Fashion MNIST
+classification/horse-vs-human

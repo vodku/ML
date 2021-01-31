@@ -11,7 +11,6 @@ def basic_stats_cat(df):
 
 def cat_plot(df, target, plot="boxplot", figsize=(80,30)):
     fig = plt.figure(figsize=figsize)
-    
     for index, i in enumerate(df.select_dtypes(include='object').columns, 1):
         index_ = index%3
         if index_ == 0:

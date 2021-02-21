@@ -1,6 +1,8 @@
 
+.gitignore
 monitoring
-regression
+regression/venv
+nlp/venv
 clustering/ansur
 clustering/boston_housing
 clustering/company_stockmovements/
